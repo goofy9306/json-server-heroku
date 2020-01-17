@@ -1,0 +1,53 @@
+{
+ "mensajeGrupo06":[
+    {
+      
+      "msg": "SERVICIO GRUPO 06"
+      
+    },
+    {
+      
+      "msg": "El Estudiante ha sido editado correctamente"
+      
+    },
+    {
+      
+      "msg": "El estudiante se ha eliminado correctamente"
+      
+    },
+    {
+      
+      "msg": "loginExamen"
+      
+    },
+    {
+      
+      "msg": "Bienvenido al Examen"
+      
+    }
+
+  ],
+  "Usuarios":[
+    {
+      "id" : "3", 
+      "name": "Erick",
+      "fecha": "July 05, 1993",
+      "email": "goofylita@hotmail.com",
+      "celular": "0984458468",
+      "user": "goofy",
+      "password": "1234"
+      
+    }
+  ],
+  "Pedidos":[
+    {
+      "id" : "3", 
+      "name": "Calculadora",
+      "descripcion": "para analisis de 7 a 9",
+      "fech_hora": "July 17, 2020 : 02:38pm",
+      "foto": "0984458468",
+      "user": "goofy"      
+    }
+  ]
+
+}
